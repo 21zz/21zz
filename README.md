@@ -1,16 +1,15 @@
-### Hi there 👋
+# 21zz
 
-<!--
-**21zz/21zz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Hey, I'm 21zz, a senior in Computer and Information Security.
+<br>
+Most everything here is done for educational purposes, i.e. for my own experience and knowledge.
+<br>
+If there is anything here you have questions about, feel free to reach out to me on Discord: `cook#7167`
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+I'm actively updating the following projects:
+ * [grantsProject](https://github.com/derek-chandler/grantsProject): a grants.gov report generator
+ * [shell-scripts](https://github.com/21zz/shell-scripts): a collection of shell scripts I use on my Linux install
+ * [fisherbot](https://github.com/21zz/fisherbot): a Discord fishing bot
+ * [weheartit-user-upload-scraper](https://github.com/21zz/weheartit-user-upload-scraper): a weheartit scraper
