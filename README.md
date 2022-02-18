@@ -1,5 +1,3 @@
-# 21zz
-
 ## About me
 Hey, I'm 21zz, a senior in Computer and Information Security.
 <br>
